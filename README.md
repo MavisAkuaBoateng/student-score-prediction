@@ -6,6 +6,16 @@ This project uses \*\*machine learning\*\* to predict students' exam scores base
 It was developed using \*\*Python\*\*, \*\*Pandas\*\*, \*\*Matplotlib\*\*, and \*\*Scikit-learn\*\* as part of a machine learning practical task.
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17q-OiXblx77M8Vvky0vQBB3SjF--nZ__)
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
+
+[![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20numpy%2C%20sklearn%2C%20matplotlib%2C%20seaborn-green)](requirements.txt)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?logo=github&logoColor=white)](https://github.com/MavisAkuaBoateng/student-score-prediction)
+
 
 \## 📊 Project Overview
 
