@@ -1,11 +1,5 @@
 \# 🎓 Student Score Prediction
 
-
-This project uses \*\*machine learning\*\* to predict students' exam scores based on factors such as study hours, attendance, motivation, sleep hours, and previous academic performance.  
-
-It was developed using \*\*Python\*\*, \*\*Pandas\*\*, \*\*Matplotlib\*\*, and \*\*Scikit-learn\*\* as part of a machine learning practical task.
-
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17q-OiXblx77M8Vvky0vQBB3SjF--nZ__)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
@@ -15,6 +9,10 @@ It was developed using \*\*Python\*\*, \*\*Pandas\*\*, \*\*Matplotlib\*\*, and \
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?logo=github&logoColor=white)](https://github.com/MavisAkuaBoateng/student-score-prediction)
+
+
+> 📘 A machine learning project that predicts students' exam scores based on academic and lifestyle factors such as study hours, sleep, attendance, and motivation.  
+> Built with Python, Pandas, Scikit-learn, and Matplotlib, this project explores how behavioral and environmental variables influence learning outcomes — empowering data-driven insights for education improvement.
 
 
 \## 📊 Project Overview
