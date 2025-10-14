@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Student Score Prediction Banner" width="100%">
+</p>
+
+
 \# 🎓 Student Score Prediction
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17q-OiXblx77M8Vvky0vQBB3SjF--nZ__)
