@@ -27,7 +27,6 @@ Students’ performance can be influenced by many academic and non-academic fact
 This model analyzes those factors to estimate final exam scores and understand what most affects learning outcomes.
 
 
-
 \### \*\*Dataset\*\*
 
 \- \*\*Source:\*\* \[Student Performance Factors Dataset](https://www.kaggle.com/datasets)
@@ -55,8 +54,6 @@ Two regression models were tested:
 | Polynomial Regression (degree 2) | – | – | 0.205 | No performance improvement |
 
 
-
-
 \## 🔍 Key Insights
 
 \- \*\*Study hours\*\*, \*\*attendance\*\*, and \*\*previous scores\*\* are strong positive predictors.  
@@ -64,8 +61,6 @@ Two regression models were tested:
 \- \*\*Low motivation\*\* and \*\*less sleep\*\* tend to decrease exam performance.  
 
 \- Linear regression worked best; polynomial regression added little benefit.
-
-
 
 
 \## 🧰 Tools \& Libraries
@@ -83,9 +78,7 @@ Two regression models were tested:
 \- Jupyter Notebook  
 
 
-
 \## ⚙️ How to Run Locally
-
 
 
 \### 1️⃣ Clone this repository
@@ -103,7 +96,6 @@ cd student-score-prediction
 pip install pandas numpy matplotlib seaborn scikit-learn jupyterlab
 
 
-
 3️⃣ Add dataset
 
 Download the Student Performance Factors dataset from Kaggle and place it inside a folder named data/
@@ -111,15 +103,11 @@ Download the Student Performance Factors dataset from Kaggle and place it inside
 Example: data/StudentPerformanceFactors.csv
 
 
-
 4️⃣ Run the notebook
 
 jupyter lab
-
 \# or
-
 jupyter notebook
-
 
 
 🧾 Files in this Repo
@@ -131,15 +119,10 @@ jupyter notebook
 5. .gitignore
 
 
-
 🪄 Author
 
-
-
 👩‍💻 Mavis Akua Boateng
-
 BSc. Computer Science \& Engineering | UMaT
-
 Aspiring AI \& Systems Innovator for Africa 🌍
 
 
